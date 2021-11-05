@@ -10,12 +10,33 @@
 She.Codes PCC Website
 
 <!-- PROJECT SHIELDS -->
-[![Contributors][contributors-shield]][contributors-url]
-[![Forks][forks-shield]][forks-url]
-[![Stargazers][stars-shield]][stars-url]
-[![Issues][issues-shield]][issues-url]
-[![MIT License][license-shield]][license-url]
-[![LinkedIn][linkedin-shield]][linkedin-url]
+<p align="center">
+    
+<!-- change to flat-square -->
+<a href="https://github.com/She-Codes-PCC/website/graphs/contributors%22%3E" title="Contributors">
+<img src="https://img.shields.io/github/contributors/She-Codes-PCC/website?label=Contributors&logo=Github&style=flat-square" alt="Project Initiator Contributors">
+</a>
+    
+<a href="https://github.com/She-Codes-PCC/website/fork" title="Forks">
+<img src="https://img.shields.io/github/forks/She-Codes-PCC/website?label=Forks&logo=github&style=flat-square" alt="Project Initiator Forks"/>
+</a>
+<a href="https://github.com/She-Codes-PCC/website/issues" title="Issues">
+<img src="https://img.shields.io/bitbucket/issues/She-Codes-PCC/website?label=Issues&logo=github&style=flat-square" alt="Project Initiator Issues"/>
+</a>
+<a href="https://github.com/She-Codes-PCC/website/pulls" title="Pull Requests">
+<img src="https://img.shields.io/bitbucket/pr/She-Codes-PCC/website?label=Pull%20Requests&logo=github&style=flat-square" alt="Project Initiator Pull Requests"/>
+</a>
+<a href="https://github.com/She-Codes-PCC/website" title="Repo Size">
+<img src="https://img.shields.io/github/repo-size/She-Codes-PCC/website?label=Repo%20Size&logo=github&style=flat-square" alt="Project Initiator Repo Size"/>
+</a>
+    
+<!-- Need to change -->
+
+<a href="https://discord.gg/CJU4UNTaFt" title="Join Community">
+<img src="https://img.shields.io/discord/737854816402800690?color=%236d82cb&label=Join%20Community&logo=discord&logoColor=%23FFFFFF&style=flat-square" alt="Join discord community for Project Initiator"/>
+</a>
+</p>
+
 
 Use the table of contents icon on the top left corner of this document to get to a specific section of this guide quickly.
 
@@ -90,7 +111,7 @@ based on [https://github.com/othneildrew/Best-README-Template](https://github.co
 [stars-url]: https://github.com/othneildrew/Best-README-Template/stargazers
 [issues-shield]: https://img.shields.io/github/issues/othneildrew/Best-README-Template.svg?style=for-the-badge
 [issues-url]: https://github.com/othneildrew/Best-README-Template/issues
-[license-shield]: https://img.shields.io/github/license/othneildrew/Best-README-Template.svg?style=for-the-badge
+[license-shield]: https://github.com/king-technologies/Project-Initiator/blob/master/LICENSE
 [license-url]: https://github.com/othneildrew/Best-README-Template/blob/master/LICENSE.txt
 [linkedin-shield]: https://img.shields.io/badge/-LinkedIn-black.svg?style=for-the-badge&logo=linkedin&colorB=555
 [linkedin-url]: https://linkedin.com/in/othneildrew
