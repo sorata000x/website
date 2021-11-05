@@ -21,7 +21,7 @@ She.Codes PCC Website
 <img src="https://img.shields.io/github/forks/She-Codes-PCC/website?label=Forks&logo=github&style=flat-square" alt="Project Initiator Forks"/>
 </a>
 <a href="https://github.com/She-Codes-PCC/website/issues" title="Issues">
-<img src="https://img.shields.io/bitbucket/issues/She-Codes-PCC/website?label=Issues&logo=github&style=flat-square" alt="Project Initiator Issues"/>
+<img src="https://img.shields.io/github/issues/She-Codes-PCC/Website?label=Issues&logo=github&style=flat-square" alt="Project Initiator Issues"/>
 </a>
 <a href="https://github.com/She-Codes-PCC/website/pulls" title="Pull Requests">
 <img src="https://img.shields.io/bitbucket/pr/She-Codes-PCC/website?label=Pull%20Requests&logo=github&style=flat-square" alt="Project Initiator Pull Requests"/>
@@ -33,7 +33,7 @@ She.Codes PCC Website
 <!-- Need to change -->
 
 <a href="https://discord.com/invite/wpb9kmD6gp" title="Join Community">
-<img src="https://img.shields.io/discord/737854816402800690?color=%236d82cb&label=Join%20Community&logo=discord&logoColor=%23FFFFFF&style=flat-square" alt="Join discord community for Project Initiator"/>
+<img src="https://img.shields.io/discord/816118243784785932?color=%237289DA&label=Join%20Community&logo=discord&logoColor=white&style=flat-square" alt="Join discord community for Project Initiator"/>
 </a>
 </p>
 
