@@ -32,7 +32,7 @@ She.Codes PCC Website
     
 <!-- Need to change -->
 
-<a href="https://discord.gg/CJU4UNTaFt" title="Join Community">
+<a href="https://discord.com/invite/wpb9kmD6gp" title="Join Community">
 <img src="https://img.shields.io/discord/737854816402800690?color=%236d82cb&label=Join%20Community&logo=discord&logoColor=%23FFFFFF&style=flat-square" alt="Join discord community for Project Initiator"/>
 </a>
 </p>
