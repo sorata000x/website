@@ -7,7 +7,7 @@
 -->
 
 <!-- PROJECT LOGO -->
-She.Codes PCC Website
+<!-- TODO: ADD Logo -->
 
 <!-- PROJECT SHIELDS -->
 <p align="center">
@@ -37,72 +37,26 @@ She.Codes PCC Website
 </a>
 </p>
 
+<br>
 
-Use the table of contents icon on the top left corner of this document to get to a specific section of this guide quickly.
+# She.Codes PCC Website
 
-## About the Project
-
-Introduction of the project / what does this project for and what does it do. THIS IS A TEST - camille
-
-### Goal
-
-goal of the project
-
-### Feature
-
-implemented (and maybe future) features
+<p>Hi! 🙂</p>
+<p>This is the She.Codes PCC student club website created by a team of 🎨 Designers and 👩‍💻 Software Engineers.</p>
+<!-- TODO: Add tag line -->
 
 ### Built With
-
-list of the major frameworks/libraries that this project is using.
 
 - Node
 - [React](https://reactjs.org/)
 
-## Getting Start
-
-instruction of setting up for the project.
-
-### Prerequisite
-
-- npm
-    - (embed install link)
-- git
-    - (embed install link)
-
-### Installation
-
-how to install and setting for the project
-
-1. Clone the repository
-    
-    `git clone (link)`
-    
-2. Change the working directory
-    
-    `cd (project_folder)`
-    
-3. run the project ...
-
-## Contributing
-
-- not sure if needed since there will be contributing.md, but could be a brief section to mention about it (e.g. See contributing.md for more information).
-
-## Contact
-
-maybe some information about how to contact different team leads
-
-## Acknowledgment
-
-give credits to the resources that were helpful to the project 
-
-- [Best README Template](https://github.com/othneildrew/Best-README-Template)
-- [GitHub Docs](https://github.com/github/docs/blob/main/CODE_OF_CONDUCT.md)
+### Acknowledgment
 
 based on [https://github.com/othneildrew/Best-README-Template](https://github.com/othneildrew/Best-README-Template)
 
 <!-- MARKDOWN LINKS & IMAGES -->
 <!-- https://www.markdownguide.org/basic-syntax/#reference-style-links -->
+
 [contributors-shield]: https://img.shields.io/github/contributors/othneildrew/Best-README-Template.svg?style=for-the-badge
 [contributors-url]: https://github.com/othneildrew/Best-README-Template/graphs/contributors
 [forks-shield]: https://img.shields.io/github/forks/othneildrew/Best-README-Template.svg?style=for-the-badge
