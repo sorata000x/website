@@ -10,13 +10,11 @@
 <!-- TODO: ADD Logo -->
 
 <!-- PROJECT SHIELDS -->
+<!-- Make badges at https://shields.io/ -->
 <p align="center">
-    
-<!-- change to flat-square -->
-<a href="https://github.com/She-Codes-PCC/website/graphs/contributors%22%3E" title="Contributors">
-<img src="https://img.shields.io/github/contributors/She-Codes-PCC/website?label=Contributors&logo=Github&style=flat-square" alt="Project Initiator Contributors">
+<a href="https://github.com/She-Codes-PCC/website/graphs/contributors" title="Contributors">
+<img src="https://img.shields.io/github/contributors-anon/She-Codes-PCC/website?label=Contributors&logo=github&style=flat-square" alt="Project Initiator Contributors">
 </a>
-    
 <a href="https://github.com/She-Codes-PCC/website/fork" title="Forks">
 <img src="https://img.shields.io/github/forks/She-Codes-PCC/website?label=Forks&logo=github&style=flat-square" alt="Project Initiator Forks"/>
 </a>
