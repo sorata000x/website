@@ -22,7 +22,7 @@
 <img src="https://img.shields.io/github/issues/She-Codes-PCC/Website?label=Issues&logo=github&style=flat-square" alt="Project Initiator Issues"/>
 </a>
 <a href="https://github.com/She-Codes-PCC/website/pulls" title="Pull Requests">
-<img src="https://img.shields.io/bitbucket/pr/She-Codes-PCC/website?label=Pull%20Requests&logo=github&style=flat-square" alt="Project Initiator Pull Requests"/>
+<img src="https://img.shields.io/github/issues-pr/She-Codes-PCC/website?label=Pull%20Requests&logo=github&style=flat-square" alt="Project Initiator Pull Requests"/>
 </a>
 <a href="https://github.com/She-Codes-PCC/website" title="Repo Size">
 <img src="https://img.shields.io/github/repo-size/She-Codes-PCC/website?label=Repo%20Size&logo=github&style=flat-square" alt="Project Initiator Repo Size"/>
