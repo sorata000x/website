@@ -52,8 +52,6 @@
 
 ### Acknowledgment
 
-based on [https://github.com/othneildrew/Best-README-Template](https://github.com/othneildrew/Best-README-Template)
-
 <!-- MARKDOWN LINKS & IMAGES -->
 <!-- https://www.markdownguide.org/basic-syntax/#reference-style-links -->
 
