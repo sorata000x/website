@@ -42,7 +42,7 @@ Use the table of contents icon on the top left corner of this document to get t
 
 ## About the Project
 
-Introduction of the project / what does this project for and what does it do. THIS IS A TEST - camille
+Introduction of the project / what does this project for and what does it do.
 
 ### Goal
 
