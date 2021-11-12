@@ -10,13 +10,11 @@
 <!-- TODO: ADD Logo -->
 
 <!-- PROJECT SHIELDS -->
+<!-- Make badges at https://shields.io/ -->
 <p align="center">
-    
-<!-- change to flat-square -->
-<a href="https://github.com/She-Codes-PCC/website/graphs/contributors%22%3E" title="Contributors">
-<img src="https://img.shields.io/github/contributors/She-Codes-PCC/website?label=Contributors&logo=Github&style=flat-square" alt="Project Initiator Contributors">
+<a href="https://github.com/She-Codes-PCC/website/graphs/contributors" title="Contributors">
+<img src="https://img.shields.io/github/contributors-anon/She-Codes-PCC/website?label=Contributors&logo=github&style=flat-square" alt="Project Initiator Contributors">
 </a>
-    
 <a href="https://github.com/She-Codes-PCC/website/fork" title="Forks">
 <img src="https://img.shields.io/github/forks/She-Codes-PCC/website?label=Forks&logo=github&style=flat-square" alt="Project Initiator Forks"/>
 </a>
@@ -24,7 +22,7 @@
 <img src="https://img.shields.io/github/issues/She-Codes-PCC/Website?label=Issues&logo=github&style=flat-square" alt="Project Initiator Issues"/>
 </a>
 <a href="https://github.com/She-Codes-PCC/website/pulls" title="Pull Requests">
-<img src="https://img.shields.io/bitbucket/pr/She-Codes-PCC/website?label=Pull%20Requests&logo=github&style=flat-square" alt="Project Initiator Pull Requests"/>
+<img src="https://img.shields.io/github/issues-pr/She-Codes-PCC/website?label=Pull%20Requests&logo=github&style=flat-square" alt="Project Initiator Pull Requests"/>
 </a>
 <a href="https://github.com/She-Codes-PCC/website" title="Repo Size">
 <img src="https://img.shields.io/github/repo-size/She-Codes-PCC/website?label=Repo%20Size&logo=github&style=flat-square" alt="Project Initiator Repo Size"/>
