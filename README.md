@@ -1,4 +1,4 @@
-test action
+test action2
 
 <div id="top"></div>
 <!--
